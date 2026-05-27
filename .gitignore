@@ -2,3 +2,10 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# Keep repository minimal for sharing
+HDM4_Manual_2015/
+rd_parameter_estimator.py
+riindex.docx
+smartphone_rd_model.py
+スマホRDモデル仕様書.docx
